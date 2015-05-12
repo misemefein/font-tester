@@ -8,9 +8,8 @@ Installation instructions. I have only tested this in Firefox and Chrome.
 2: Locate your file in Finder, and install in your favourite font management software. 
 3: Using your favourite code editor, paste in the following:
 
-**
-javascript:(function(){var%20s=(document.getElementsByTagName('head')[0]||document.body).appendChild(document.createElement('style'));var%20t=document.createTextNode('*{font-family:******!important;%20line-height:%20135%;%20font-size:%201.03rem;}');s.appendChild(t);})();
-**
+    javascript:(function(){var%20s=(document.getElementsByTagName('head')[0]||document.body).appendChild(document.cre    ateElement('style'));var%20t=document.createTextNode('*{font-family:******!important;%20line-height:%20135%;%20fon    t-size:%201.03rem;}');s.appendChild(t);})();
+
 
 4: Replace the ****** with your exact font name ie [myFont-Regular]
 4: In the browser, show all bookmarks, then duplicate any old bookmark (alt-drag)
