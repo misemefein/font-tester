@@ -5,7 +5,9 @@ Javascript bookmarklet to override css replace the font used on any website with
 Installation instructions. I have only tested this in Firefox and Chrome.
 
 1: Export your .otf as usual from your font editor. It is best to keep naming convention relatively simple, ie [myFont-Regular]
+
 2: Locate your file in Finder, and install in your favourite font management software. 
+
 3: Using your favourite code editor, paste in the following:
 
     javascript:(function(){var%20s=(document.getElementsByTagName('head')[0]||document.body).appendChild(document.cre    ateElement('style'));var%20t=document.createTextNode('*{font-family:******!important;%20line-height:%20135%;%20fon    t-size:%201.03rem;}');s.appendChild(t);})();
