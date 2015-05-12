@@ -14,12 +14,16 @@ Installation instructions. I have only tested this in Firefox and Chrome.
 
 
 4: Replace the ****** with your exact font name ie [myFont-Regular]
-4: In the browser, show all bookmarks, then duplicate any old bookmark (alt-drag)
-5: Rename the link to whatever you want the bookmarklet to display, ie FontTester. 
-6: In the location (link) field, replace the link from your old bookmark with your new bookmarklet.
-7: Load up a test page, and hit the bookmarklet.
+
+5: In the browser, show all bookmarks, then duplicate any old bookmark (alt-drag)
+
+6: Rename the link to whatever you want the bookmarklet to display, ie FontTester. 
+
+7: In the location (link) field, replace the link from your old bookmark with your new bookmarklet.
+
+8: Load up a test page, and hit the bookmarklet.
 
 The hack essentially targets the page styles, and will change the font, but also increase the font size to 1.03rem (relative em) and also the the leading to 135%. You can of course alter these parameters as you wish.
 
-** [PostStudio_](https://twitter.com/PostStudio_)
+Any issues, just holler @PostStudio_](https://twitter.com/PostStudio_)
 
