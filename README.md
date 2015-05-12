@@ -25,5 +25,6 @@ Installation instructions. I have only tested this in Firefox and Chrome.
 
 The hack essentially targets the page styles, and will change the font, but also increase the font size to 1.03rem (relative em) and also the the leading to 135%. You can of course alter these parameters as you wish.
 
-Any issues, just holler @PostStudio_](https://twitter.com/PostStudio_)
+Any issues, just holler 
+@PostStudio_](https://twitter.com/PostStudio_)
 
