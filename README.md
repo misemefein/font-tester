@@ -18,6 +18,5 @@ javascript:(function(){var%20s=(document.getElementsByTagName('head')[0]||docume
 
 The hack essentially targets the page styles, and will change the font, but also increase the font size to 1.03rem (relative em) and also the the leading to 135%. You can of course alter these parameters as you wish.
 
-**  @poststudio_
-
+** [PostStudio_](https://twitter.com/PostStudio_)
 
