@@ -1,6 +1,6 @@
 # font-tester
 
-Javascript bookmarklet to override css replace the font used on any website with your own font. It grabs whatever font(s) are used on a webpage, and replaces them with a locally installed font—namely—yours. Especially useful for testing non-latin scripts without mocking up contexts with Adobe CC. 
+Javascript bookmarklet to override css. Replace the font used on any website with your own font. It grabs whatever font(s) are used on a webpage, and replaces them with a locally installed font—namely—yours. Especially useful for testing non-latin scripts without mocking up contexts with Adobe CC. 
 
 Installation instructions. I have only tested this in Firefox and Chrome.
 
